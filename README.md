@@ -2,7 +2,7 @@
 A discord RPC application for both Mine-imator and Modelbench!
 
 # Installation tutorial
-1. Install [here]
+1. Install [here](https://github.com/im-a-dweeb/Mine-imatorRPC/releases/tag/1.0.0)
 2. Run the program(s)
 3. Check Discord!
 
